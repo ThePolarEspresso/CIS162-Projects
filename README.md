@@ -1,2 +1,2 @@
 # CIS162 Projects
-All CIS163 projects I completed in Winter of 2021
+All CIS162 projects I completed in fall of 2020
